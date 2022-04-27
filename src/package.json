@@ -2,7 +2,7 @@
   "name": "bonziworld",
   "version": "1.6.0",
   "dependencies": {
-    "grunt": "^1.0.3"
+    "grunt": "^1.5.2"
   },
   "devDependencies": {
     "babel-preset-es2015": "^6.14.0",
